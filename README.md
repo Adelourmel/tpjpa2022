@@ -5,6 +5,14 @@ Tom ROUSSEAU (tom.rousseau@etudiant.univ-rennes1.fr)
 
 ---
 
+### Versions
+
+tag *v1* : partie JPA du projet (avant spring)
+
+tag *v2* : partie Spring du projet
+
+---
+
 ### Introduction
 
 Dans le cadre de l'unité d'enseignement Techniques Avancées pour les Architectures logicielle (TAA) nous devions construire et exposer une API à l'aide d'outils technologiques qui nous étaient fournis.
