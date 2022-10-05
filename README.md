@@ -129,3 +129,14 @@ Le front-end sera accessible à l'URL : http://localhost:3000
 
 :warning: : Le front-end doit impérativement fonctionner sur l'url précisé ci-dessus. En effet, pour éviter les erreurs [CORS](https://developer.mozilla.org/fr/docs/Web/HTTP/CORS/Errors) dans le back-end nous avons renseigné l'URL du front-end 
 
+
+
+Ci-dessous on retrouve la page d'accueil de notre front-end.
+
+![home_front](./images/home_front.png)
+
+
+
+Lorsque l'utilisateur clique sur "docteur", il arrive sur la page pour se "connecter" en tant que docteur.  Sur cette page, il également créer un compte si le compte n'existe pas.
+
+![home_front](./images/addDoctor_front.png)
